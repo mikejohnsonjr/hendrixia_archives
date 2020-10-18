@@ -1,7 +1,3 @@
 # transcripts archive
 
-1. example 1
-
-2. example 2
-
-3. example 3
+Transcripts for all Hendrixia.com videos are here. 
